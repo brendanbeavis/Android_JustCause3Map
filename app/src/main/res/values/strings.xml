@@ -1,0 +1,302 @@
+<resources>
+    <string name="app_name">Just Cause 3 Map</string>
+    <string name="title_activity_just_cause_map">Just Cause 3 Map</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1793856388987151/5886221940</string>
+    <string name="banner_ad_unit_idTEST">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_idPROD">ca-app-pub</string>
+
+    <string-array name="test_markers1">
+        <item>One_10_0</item>
+        <item>MOne_-10_0</item>
+        <item>Two_20_0</item>
+        <item>MTwo_-20_0</item>
+        <item>Three_30_0</item>
+        <item>MThree_-30_0</item>
+        <item>TOne_40_0</item>
+        <item>TOne_-40_0</item>
+        <item>TOne_50_0</item>
+        <item>TMOne_-50_0</item>
+        <item>TOne_60_0</item>
+        <item>TOne_-60_0</item>
+        <item>TOne_70_0</item>
+        <item>TTwo_0_10</item>
+        <item>TMTwo_0_20</item>
+        <item>TThree_0_30</item>
+        <item>TMThree_0_40</item>
+
+        <item>TMFour_0_-10</item>
+        <item>TMFive_0_-20</item>
+        <item>TMSix_0_-30</item>
+        <item>TMSeven_0_-40</item>
+        <item>TMSeven_0_50</item>
+        <item>TMSeven_0_-50</item>
+        <item>TMSeven_0_-60</item>
+        <item>TMSeven_0_60</item>
+        <item>Zero_0_0</item>
+    </string-array>
+    <string-array name="markers">
+        <item>Capite Est - Espia Alta _-10.36_-2.15</item>
+        <item>Capite Est - Guardia Capite III _-9.58_0.94</item>
+        <item>Capite Est - Vico Spigola _-8.30_1.67</item>
+        <item>Capite Est - Vico Thunno _-7.70_-8.34</item>
+        <item>Capite Est - Vinialetta _-11.27_-6.07</item>
+        <item>Capite West - Arco Sperantia _-22.79_-10.55</item>
+        <item>Capite West - Guardia Capite I _-22.31_-6.11</item>
+        <item>Capite West - Guardia Capite II _-14.46_-13.49</item>
+        <item>Capite West - Porto Cavo _-11.13_-10.52</item>
+        <item>Capite West - Sancte Antonio _-13.67_-12.72</item>
+        <item>Cauda - Grotta Contrabandero _-42.01_-14.88</item>
+        <item>Corda Dracon - Corda Dragon: Centcom _-24.41_-2.57</item>
+        <item>Massos - Cinta _-29.16_7.27</item>
+        <item>Massos - Guardia Massos I _-27.14_5.47</item>
+        <item>Massos - Guardia Massos II _-24.36_5.90</item>
+        <item>Massos - Guardia Massos III _-26.93_3.04</item>
+        <item>Massos - Guardia Massos IV _-12.44_1.51</item>
+        <item>Massos - Guardia Massos V _-13.69_-1.25</item>
+        <item>Massos - Soliana _-12.68_3.17</item>
+        <item>Petra - Espia Bassa _-30.44_1.23</item>
+        <item>Petra - Olivo Moro _-32.29_0.05</item>
+        <item>Petra - Puncta Sud _-38.04_6.04</item>
+        <item>Petra - Platteforma Petra I _-45.34_-1.21</item>
+        <item>Petra - Sancte Cintia _-32.12_2.95</item>
+        <item>Petra - Victo Tructa _-34.15_0.78</item>
+        <item>Trio - Guardia Trio I _-25.19_-9.03</item>
+        <item>Trio - Platteforma Trio I _-34.66_-22.45</item>
+        <item>Trio - Ponere _-30.79_-11.67</item>
+        <item>Trio - Porto Darsena _-28.88_-11.38</item>
+        <item>Trio - Vico Gamba _-32.74_-10.71</item>
+        <item>Trio - Vico Maquerello _-32.27_-5.71</item>
+        <item>Trio - Vico Platessa _-25.15_-11.37</item>
+        <item>Aspera - Cima Leon: Centcom _-33.17_55.54</item>
+        <item>Baia - Manaea _-42.09_64.03</item>
+        <item>Baia - Sancte Rita _-46.27_56.01</item>
+        <item>Baia - Vis Electra _-39.05_46.12</item>
+        <item>Feno - Albeto Pero _-26.70_38.15</item>
+        <item>Feno - Babica _-23.91_47.81</item>
+        <item>Feno - Cima Leon: Transmitter _-30.43_49.76</item>
+        <item>Feno - Guardia Feno I _-28.43_43.79</item>
+        <item>Feno - Guardia Feno II _-22.67_45.30</item>
+        <item>Lacos - Alba _-42.60_51.38</item>
+        <item>Lacos - Cima Leon: Silo _-36.30_52.25</item>
+        <item>Lacos - Colle Salrosa _-46.14_46.61</item>
+        <item>Lacos - Fortalessa _-39.70_56.89</item>
+        <item>Lacos - Guardia Lacos I _-43.59_45.29</item>
+        <item>Lacos - Guardia Lacos II _-40.32_47.48</item>
+        <item>Lavanda - Guardia Lavanda I _-28.99_38.72</item>
+        <item>Lavanda - Lantuina _-32.17_42.95</item>
+        <item>Lavanda - Porto Le Gratia _-36.65_42.56</item>
+        <item>Lavanda - Rondella _-31.38_37.79</item>
+        <item>Lavanda - Sancte Esteban _-30.51_37.07</item>
+        <item>Lavanda - Sancte Lucas _-32.37_44.81</item>
+        <item>Plagia - Guardia Plagia I _-23.16_56.99</item>
+        <item>Plagia - Guardia Plagia II _-25.34_55.24</item>
+        <item>Plagia - Sancte Ana _-30.33_59.41</item>
+        <item>Plagia - Surpicco _-27.10_57.48</item>
+        <item>Plagia - Vigilator Nord _-28.36_63.17</item>
+        <item>Sirocco Nord - Costa Del Porto _-54.04_47.21</item>
+        <item>Sirocco Nord - Costa Di Ravello _-56.91_45.88</item>
+        <item>Sirocco Nord - Guardia Sirocco II _-54.26_50.66</item>
+        <item>Sirocco Nord - Guardia Sirocco III _-54.94_46.04</item>
+        <item>Sirocco Nord - Le Tutor _-48.26_38.74</item>
+        <item>Sirocco Nord - Porto Vena _-56.11_41.79</item>
+        <item>Sirocco Sud - Cirilla _-53.11_42.93</item>
+        <item>Sirocco Sud - Guardia Sirocco I _-54.28_46.97</item>
+        <item>Sirocco Sud - Laguna Del Sol _-51.50_45.96</item>
+        <item>Sirocco Sud - Le Galera _-64.20_57.55</item>
+        <item>Sirocco Sud - Vigilator Sud _-53.08_37.34</item>
+        <item>Soros - Cava De Rebelles _-62.50_17.64</item>
+        <item>Costa Sud - Griphon _-6.18_60.07</item>
+        <item>Costa Sud - Guardia Costa Sud I _8.85_74.40</item>
+        <item>Costa Sud - Guardia Costa Sud II _2.30_62.53</item>
+        <item>Costa Sud - Perla Est _-8.35_66.35</item>
+        <item>Costa Sud - Platteforma Costa Sud I _-12.21_71.56</item>
+        <item>Costa Sud - Sancte Evita _9.95_57.74</item>
+        <item>Costa Sud - Sancte Galile _-7.80_70.36</item>
+        <item>Falco - Falco Maxime: Centcom _28.19_38.60</item>
+        <item>Grande Pastura - Alte Potentia _29.85_26.00</item>
+        <item>Grande Pastura - Guardia Grande Pastura I _51.99_67.88</item>
+        <item>Grande Pastura - Guardia Grande Pastura II _45.03_39.35</item>
+        <item>Grande Pastura - Guardia Grande Pastura III _41.27_19.04</item>
+        <item>Grande Pastura - Platteforma Grande Pastura I _53.20_23.63</item>
+        <item>Grande Pastura - Sancte Ernesto _45.42_40.50</item>
+        <item>Libeccio - Burgoletto _5.78_10.01</item>
+        <item>Libeccio - Celata _8.29_3.62</item>
+        <item>Libeccio - Guardia Libeccio I _0.55_-27.56</item>
+        <item>Libeccio - Guardia Libeccio II _0.32_17.05</item>
+        <item>Libeccio - Nacre _-0.21_-9.59</item>
+        <item>Libeccio - Sancte Elena _3.11_-1.40</item>
+        <item>Libeccio - Vista Dracon _8.56_-9.07</item>
+        <item>Litore Torto - Guardia Litore Torto I _30.28_64.23</item>
+        <item>Litore Torto - Guardia Litore Torto II _43.28_71.54</item>
+        <item>Litore Torto - Guardia Litore Torto III _52.01_63.95</item>
+        <item>Litore Torto - Platteforma Litore Torto I _32.12_81.41</item>
+        <item>Litore Torto - Platteforma Litore Torto II _56.43_64.96</item>
+        <item>Litore Torto - Sancte Malco _37.82_63.07</item>
+        <item>Maestrale - Guardia Maestrale I _14.92_18.66</item>
+        <item>Maestrale - Platteforma Maestrale I _51.01_-7.04</item>
+        <item>Maestrale - Porto Tridente _39.59_-33.34</item>
+        <item>Maestrale - Sancte Martino _38.79_-13.08</item>
+        <item>Maestrale - Vulture _25.32_1.43</item>
+        <item>Montana - Cavo Montana _19.41_50.56</item>
+        <item>Montana - Guardia Montana I _13.03_51.26</item>
+        <item>Montana - Guardia Montana II _20.47_47.30</item>
+        <item>Prima - Agro _-9.66_30.31</item>
+        <item>Prima - Agro Nove _-10.78_26.41</item>
+        <item>Prima - Bellevia _-10.14_51.23</item>
+        <item>Prima - Sancte Federico _-9.19_41.66</item>
+        <item>Prima - Vista Fonte _-10.16_38.30</item>
+        <item>Prospere - Cava Grande _7.88_30.23</item>
+        <item>Prospere - Cava Grande Secunde _3.14_24.17</item>
+        <item>Prospere - Guardia Prospere I _10.25_27.67</item>
+        <item>Prospere - Guardia Prospere II _9.06_34.28</item>
+        <item>Prospere - Guardia Prospere III _3.58_34.11</item>
+        <item>Prospere - Guardia Prospere IV _1.55_27.89</item>
+        <item>Regno - Citate Di Ravello _-8.06_16.10</item>
+        <item>Rocca Blau - Cava Geminos Est _23.81_-14.79</item>
+        <item>Rocca Blau - Cava Geminos Nord _27.53_-19.91</item>
+        <item>Rocca Blau - Cava Geminos Sud _22.04_-22.56</item>
+        <item>Rocca Blau - Guardia Rocca Blau I _35.34_-20.09</item>
+        <item>Umbra - Refugio Umbra _12.85_60.62</item>
+        <item>Val De Mar - Guardia Val De Mar I _11.40_38.11</item>
+        <item>Val De Mar - Guardia Val De Mar II _9.29_44.45</item>
+        <item>Val De Mar - Guardia Val De Mar III _1.85_39.65</item>
+        <item>Val De Mar - Guardia Val De Mar IV _-2.22_44.84</item>
+        <item>Val De Mar - Guardia Val De Mar V _3.26_49.69</item>
+        <item>Val De Mar - Porto Coclea _20.56_27.93</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="markers1"><item>Capite Est - Espia Alta _-10.36_-2.15</item>
+        <item>Capite Est - Guardia Capite III _-9.58_0.94</item>
+        <item>Capite Est - Vico Spigola _-8.30_1.67</item>
+        <item>Capite Est - Vico Thunno _-7.70_-8.34</item>
+        <item>Capite Est - Vinialetta _-11.27_-6.07</item></string-array>
+    <string-array name="markers2"><item>Capite West - Arco Sperantia _-22.79_-10.55</item>
+        <item>Capite West - Guardia Capite I _-22.31_-6.11</item>
+        <item>Capite West - Guardia Capite II _-14.46_-13.49</item>
+        <item>Capite West - Porto Cavo _-11.13_-10.52</item>
+        <item>Capite West - Sancte Antonio _-13.67_-12.72</item></string-array>
+    <string-array name="markers3"><item>Cauda - Grotta Contrabandero _-42.01_-14.88</item></string-array>
+    <string-array name="markers4"><item>Corda Dracon - Corda Dragon: Centcom _-24.41_-2.57</item></string-array>
+    <string-array name="markers5"><item>Massos - Cinta _-29.16_7.27</item>
+        <item>Massos - Guardia Massos I _-27.14_5.47</item>
+        <item>Massos - Guardia Massos II _-24.36_5.90</item>
+        <item>Massos - Guardia Massos III _-26.93_3.04</item>
+        <item>Massos - Guardia Massos IV _-12.44_1.51</item>
+        <item>Massos - Guardia Massos V _-13.69_-1.25</item>
+        <item>Massos - Soliana _-12.68_3.17</item></string-array>
+    <string-array name="markers6"><item>Petra - Espia Bassa _-30.44_1.23</item>
+        <item>Petra - Olivo Moro _-32.29_0.05</item>
+        <item>Petra - Puncta Sud _-38.04_6.04</item>
+        <item>Petra - Platteforma Petra I _-45.34_-1.21</item>
+        <item>Petra - Sancte Cintia _-32.12_2.95</item>
+        <item>Petra - Victo Tructa _-34.15_0.78</item></string-array>
+    <string-array name="markers7"><item>Trio - Guardia Trio I _-25.19_-9.03</item>
+        <item>Trio - Platteforma Trio I _-34.66_-22.45</item>
+        <item>Trio - Ponere _-30.79_-11.67</item>
+        <item>Trio - Porto Darsena _-28.88_-11.38</item>
+        <item>Trio - Vico Gamba _-32.74_-10.71</item>
+        <item>Trio - Vico Maquerello _-32.27_-5.71</item>
+        <item>Trio - Vico Platessa _-25.15_-11.37</item></string-array>
+    <string-array name="markers8"><item>Aspera - Cima Leon: Centcom _-33.17_55.54</item></string-array>
+    <string-array name="markers9"><item>Baia - Manaea _-42.09_64.03</item>
+        <item>Baia - Sancte Rita _-46.27_56.01</item>
+        <item>Baia - Vis Electra _-39.05_46.12</item></string-array>
+    <string-array name="markers10"><item>Feno - Albeto Pero _-26.70_38.15</item>
+        <item>Feno - Babica _-23.91_47.81</item>
+        <item>Feno - Cima Leon: Transmitter _-30.43_49.76</item>
+        <item>Feno - Guardia Feno I _-28.43_43.79</item>
+        <item>Feno - Guardia Feno II _-22.67_45.30</item></string-array>
+    <string-array name="markers11"><item>Lacos - Alba _-42.60_51.38</item>
+        <item>Lacos - Cima Leon: Silo _-36.30_52.25</item>
+        <item>Lacos - Colle Salrosa _-46.14_46.61</item>
+        <item>Lacos - Fortalessa _-39.70_56.89</item>
+        <item>Lacos - Guardia Lacos I _-43.59_45.29</item>
+        <item>Lacos - Guardia Lacos II _-40.32_47.48</item></string-array>
+    <string-array name="markers12"><item>Lavanda - Guardia Lavanda I _-28.99_38.72</item>
+        <item>Lavanda - Lantuina _-32.17_42.95</item>
+        <item>Lavanda - Porto Le Gratia _-36.65_42.56</item>
+        <item>Lavanda - Rondella _-31.38_37.79</item>
+        <item>Lavanda - Sancte Esteban _-30.51_37.07</item>
+        <item>Lavanda - Sancte Lucas _-32.37_44.81</item></string-array>
+    <string-array name="markers13"><item>Plagia - Guardia Plagia I _-23.16_56.99</item>
+        <item>Plagia - Guardia Plagia II _-25.34_55.24</item>
+        <item>Plagia - Sancte Ana _-30.33_59.41</item>
+        <item>Plagia - Surpicco _-27.10_57.48</item>
+        <item>Plagia - Vigilator Nord _-28.36_63.17</item></string-array>
+    <string-array name="markers14"><item>Sirocco Nord - Costa Del Porto _-54.04_47.21</item>
+        <item>Sirocco Nord - Costa Di Ravello _-56.91_45.88</item>
+        <item>Sirocco Nord - Guardia Sirocco II _-54.26_50.66</item>
+        <item>Sirocco Nord - Guardia Sirocco III _-54.94_46.04</item>
+        <item>Sirocco Nord - Le Tutor _-48.26_38.74</item>
+        <item>Sirocco Nord - Porto Vena _-56.11_41.79</item></string-array>
+    <string-array name="markers15"><item>Sirocco Sud - Cirilla _-53.11_42.93</item>
+        <item>Sirocco Sud - Guardia Sirocco I _-54.28_46.97</item>
+        <item>Sirocco Sud - Laguna Del Sol _-51.50_45.96</item>
+        <item>Sirocco Sud - Le Galera _-64.20_57.55</item>
+        <item>Sirocco Sud - Vigilator Sud _-53.08_37.34</item></string-array>
+    <string-array name="markers16"><item>Soros - Cava De Rebelles _-62.50_17.64</item></string-array>
+    <string-array name="markers17"><item>Costa Sud - Griphon _-6.18_60.07</item>
+        <item>Costa Sud - Guardia Costa Sud I _8.85_74.40</item>
+        <item>Costa Sud - Guardia Costa Sud II _2.30_62.53</item>
+        <item>Costa Sud - Perla Est _-8.35_66.35</item>
+        <item>Costa Sud - Platteforma Costa Sud I _-12.21_71.56</item>
+        <item>Costa Sud - Sancte Evita _9.95_57.74</item>
+        <item>Costa Sud - Sancte Galile _-7.80_70.36</item></string-array>
+    <string-array name="markers18"><item>Falco - Falco Maxime: Centcom _28.19_38.60</item></string-array>
+    <string-array name="markers19"><item>Grande Pastura - Alte Potentia _29.85_26.00</item>
+        <item>Grande Pastura - Guardia Grande Pastura I _51.99_67.88</item>
+        <item>Grande Pastura - Guardia Grande Pastura II _45.03_39.35</item>
+        <item>Grande Pastura - Guardia Grande Pastura III _41.27_19.04</item>
+        <item>Grande Pastura - Platteforma Grande Pastura I _53.20_23.63</item>
+        <item>Grande Pastura - Sancte Ernesto _45.42_40.50</item></string-array>
+    <string-array name="markers20"><item>Libeccio - Burgoletto _5.78_10.01</item>
+        <item>Libeccio - Celata _8.29_3.62</item>
+        <item>Libeccio - Guardia Libeccio I _0.55_-27.56</item>
+        <item>Libeccio - Guardia Libeccio II _0.32_17.05</item>
+        <item>Libeccio - Nacre _-0.21_-9.59</item>
+        <item>Libeccio - Sancte Elena _3.11_-1.40</item>
+        <item>Libeccio - Vista Dracon _8.56_-9.07</item></string-array>
+    <string-array name="markers21"><item>Litore Torto - Guardia Litore Torto I _30.28_64.23</item>
+        <item>Litore Torto - Guardia Litore Torto II _43.28_71.54</item>
+        <item>Litore Torto - Guardia Litore Torto III _52.01_63.95</item>
+        <item>Litore Torto - Platteforma Litore Torto I _32.12_81.41</item>
+        <item>Litore Torto - Platteforma Litore Torto II _56.43_64.96</item>
+        <item>Litore Torto - Sancte Malco _37.82_63.07</item></string-array>
+    <string-array name="markers22"><item>Maestrale - Guardia Maestrale I _14.92_18.66</item>
+        <item>Maestrale - Platteforma Maestrale I _51.01_-7.04</item>
+        <item>Maestrale - Porto Tridente _39.59_-33.34</item>
+        <item>Maestrale - Sancte Martino _38.79_-13.08</item>
+        <item>Maestrale - Vulture _25.32_1.43</item></string-array>
+    <string-array name="markers23"><item>Montana - Cavo Montana _19.41_50.56</item>
+        <item>Montana - Guardia Montana I _13.03_51.26</item>
+        <item>Montana - Guardia Montana II _20.47_47.30</item></string-array>
+    <string-array name="markers24"><item>Prima - Agro _-9.66_30.31</item>
+        <item>Prima - Agro Nove _-10.78_26.41</item>
+        <item>Prima - Bellevia _-10.14_51.23</item>
+        <item>Prima - Sancte Federico _-9.19_41.66</item>
+        <item>Prima - Vista Fonte _-10.16_38.30</item></string-array>
+    <string-array name="markers25"><item>Prospere - Cava Grande _7.88_30.23</item>
+        <item>Prospere - Cava Grande Secunde _3.14_24.17</item>
+        <item>Prospere - Guardia Prospere I _10.25_27.67</item>
+        <item>Prospere - Guardia Prospere II _9.06_34.28</item>
+        <item>Prospere - Guardia Prospere III _3.58_34.11</item>
+        <item>Prospere - Guardia Prospere IV _1.55_27.89</item></string-array>
+    <string-array name="markers26"><item>Regno - Citate Di Ravello _-8.06_16.10</item></string-array>
+    <string-array name="markers27"><item>Rocca Blau - Cava Geminos Est _23.81_-14.79</item>
+        <item>Rocca Blau - Cava Geminos Nord _27.53_-19.91</item>
+        <item>Rocca Blau - Cava Geminos Sud _22.04_-22.56</item>
+        <item>Rocca Blau - Guardia Rocca Blau I _35.34_-20.09</item></string-array>
+    <string-array name="markers28"><item>Umbra - Refugio Umbra _12.85_60.62</item></string-array>
+    <string-array name="markers29"><item>Val De Mar - Guardia Val De Mar I _11.40_38.11</item>
+        <item>Val De Mar - Guardia Val De Mar II _9.29_44.45</item>
+        <item>Val De Mar - Guardia Val De Mar III _1.85_39.65</item>
+        <item>Val De Mar - Guardia Val De Mar IV _-2.22_44.84</item>
+        <item>Val De Mar - Guardia Val De Mar V _3.26_49.69</item>
+        <item>Val De Mar - Porto Coclea _20.56_27.93</item></string-array>
+
+</resources>
